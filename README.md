@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 CareerAI — Intelligent Resume & Career Planner
 
 A full-stack MERN application powered by Groq AI (FREE) that helps users improve their resumes, analyze skill gaps, and plan personalized career paths.
@@ -121,3 +122,6 @@ CLIENT_URL=http://localhost:5173
 ---
 
 Built with ⚡ MERN + Groq AI (llama-3.3-70b-versatile)
+=======
+# CAREERMATE
+>>>>>>> 2d1e493a9dee07348fd7058525a634e618f86278
