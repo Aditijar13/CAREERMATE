@@ -18,10 +18,10 @@
     "react-dropzone": "^14.2.3",
     "react-hot-toast": "^2.4.1",
     "react-router-dom": "^6.21.1",
-    "recharts": "^2.10.3"
-  },
-  "devDependencies": {
+    "recharts": "^2.10.3",
     "@vitejs/plugin-react": "^4.2.1",
     "vite": "^5.0.8"
+  },
+  "devDependencies": {
   }
 }
