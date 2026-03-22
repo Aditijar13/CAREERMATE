@@ -1,4 +1,4 @@
-# 🚀 CareerMate – AI Resume Analyzer & Career Planner
+#  CareerMate – AI Resume Analyzer & Career Planner
 
 🔗 **Live Demo:** *(https://careermate-tr3v.onrender.com)*
 
@@ -6,7 +6,7 @@ CareerMate is a **full-stack MERN application** that analyzes resumes using AI, 
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 This project combines **AI + Full Stack Development** to help users:
 
@@ -19,43 +19,43 @@ It demonstrates real-world integration of **AI APIs with MERN stack applications
 
 ---
 
-## ✨ Features
+##  Features
 
-* 📄 **Resume Upload**
+*  **Resume Upload**
 
   * Upload PDF/TXT resumes with parsing
 
-* 🤖 **AI Resume Analysis**
+*  **AI Resume Analysis**
 
   * ATS score breakdown (keywords, formatting, readability)
 
-* 🎯 **Skill Gap Detection**
+*  **Skill Gap Detection**
 
   * Compare existing vs required vs trending skills
 
-* 📚 **Course Recommendations**
+*  **Course Recommendations**
 
   * Personalized learning suggestions
 
-* 💼 **Job Role Matching**
+*  **Job Role Matching**
 
   * Role suggestions with match scores
 
-* 🗺️ **Career Roadmap**
+*  **Career Roadmap**
 
   * Step-by-step structured learning path
 
-* 🔐 **Authentication**
+*  **Authentication**
 
   * Secure login/register using JWT & bcrypt
 
-* 📊 **Dashboard**
+*  **Dashboard**
 
   * Resume history and insights
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 ### Frontend
 
@@ -84,7 +84,7 @@ It demonstrates real-world integration of **AI APIs with MERN stack applications
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 
 ```
 CareerMate/
@@ -107,7 +107,7 @@ CareerMate/
 
 ---
 
-## 🔗 API Routes
+##  API Routes
 
 ### Authentication
 
@@ -135,16 +135,16 @@ CareerMate/
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
-### 1️⃣ Clone the repository
+###  Clone the repository
 
 ```bash
 git clone https://github.com/Aditijar13/CAREERMATE.git
 cd CAREERMATE
 ```
 
-### 2️⃣ Setup Backend
+###  Setup Backend
 
 ```bash
 cd backend
@@ -169,7 +169,7 @@ npm run dev
 
 ---
 
-### 3️⃣ Setup Frontend
+###  Setup Frontend
 
 ```bash
 cd frontend
@@ -179,7 +179,7 @@ npm run dev
 
 ---
 
-### 4️⃣ Open in browser
+###  Open in browser
 
 ```
 http://localhost:5173
@@ -187,7 +187,7 @@ http://localhost:5173
 
 ---
 
-## 🧠 Key Learnings
+##  Key Learnings
 
 * Integrated **AI APIs with MERN stack**
 * Built a **real-world resume analyzer system**
@@ -198,7 +198,7 @@ http://localhost:5173
 
 ---
 
-## 📸 Future Improvements
+##  Future Improvements
 
 * Real-time resume editing suggestions
 * AI-powered interview preparation
@@ -207,7 +207,7 @@ http://localhost:5173
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Aditi Jar**
 
@@ -216,12 +216,12 @@ http://localhost:5173
 
 ---
 
-## 📜 License
+##  License
 
 This project is licensed under the **MIT License**.
 
 ---
 
-## ⭐ Show Your Support
+##  Show Your Support
 
 If you like this project, give it a ⭐ on GitHub!
