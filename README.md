@@ -212,16 +212,9 @@ http://localhost:5173
 **Aditi Jar**
 
 * GitHub: https://github.com/Aditijar13
-* Aspiring Full Stack Developer (MERN + AI)
 
 ---
 
 ##  License
 
 This project is licensed under the **MIT License**.
-
----
-
-##  Show Your Support
-
-If you like this project, give it a ⭐ on GitHub!
