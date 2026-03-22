@@ -1,6 +1,6 @@
 # 🚀 CareerMate – AI Resume Analyzer & Career Planner
 
-🔗 **Live Demo:** *Add your Render link here*
+🔗 **Live Demo:** *(https://careermate-tr3v.onrender.com)*
 
 CareerMate is a **full-stack MERN application** that analyzes resumes using AI, identifies skill gaps, and provides personalized career guidance including job matches, courses, and learning roadmaps.
 
